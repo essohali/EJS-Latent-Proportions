@@ -1,8 +1,6 @@
 # Sharp minimax rates and adaptive estimation of latent proportions in bivariate Poisson mixtures
 
-**by Essoham Ali**
-
-This repository provides the R scripts and archived numerical results accompanying the manuscript on latent proportions in bivariate Poisson mixtures. It is a computational reproducibility repository, **not** an EJS supporting-information submission.
+This repository provides the R scripts, simulation procedures, and archived numerical results accompanying the manuscript entitled Sharp minimax rates and adaptive estimation of latent proportions in bivariate Poisson mixtures by Essoham Ali.
 
 ## Repository structure
 
