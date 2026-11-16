@@ -1,4 +1,6 @@
-# Reproducibility archive — latent proportions in bivariate Poisson mixtures
+# Sharp minimax rates and adaptive estimation of latent proportions in bivariate Poisson mixtures
+
+**by Essoham Ali**
 
 This repository provides the R scripts and archived numerical results accompanying the manuscript on latent proportions in bivariate Poisson mixtures. It is a computational reproducibility repository, **not** an EJS supporting-information submission.
 
