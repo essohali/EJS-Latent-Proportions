@@ -1,0 +1,7 @@
+"n","m","calibration","Bcal","cutoff"
+250,3,"nonlinear_zero_cov",1500,0.256949333333333
+500,3,"nonlinear_zero_cov",1500,0.172074
+1000,3,"nonlinear_zero_cov",1500,0.128218666666667
+2000,3,"nonlinear_zero_cov",1500,0.0890728611111113
+4000,3,"nonlinear_zero_cov",1500,0.0639954583333335
+10000,4,"nonlinear_zero_cov",1500,0.0740301846808518

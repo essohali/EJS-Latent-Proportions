@@ -1,0 +1,5 @@
+Local alternatives: S~Uniform[1,5], U=0.4+gamma*(S-3)/4
+Cov(S,U)=gamma/3; admissibility requires abs(gamma)<=0.8
+Critical values independently calibrated from nonlinear zero-covariance null only.
+Not a uniform level-alpha test; not a direct minimax sharpness verification.
+seed=20261031, B=1000, Bcal=1500, alpha=0.05

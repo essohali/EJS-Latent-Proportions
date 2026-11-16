@@ -1,0 +1,8 @@
+Methods frozen before evaluation:
+Practical MOM degree=3, blocks=10, threshold multiplier=0.35.
+These practical tuning values originate from earlier pilot studies, not from the final evaluation.
+Theoretical MOM: degree=floor(log(n)/log(log(n))), blocks=ceiling(32*log(n)).
+Theoretical MOM is only reported if ceiling(32*log(n)) <= floor(n/2).
+Covariance test critical values calibrated under Design IV using separate simulation seeds.
+This calibration does NOT guarantee uniform type-I error over all zero-covariance mixing laws.
+Final performance results are not used to choose tuning parameters.
